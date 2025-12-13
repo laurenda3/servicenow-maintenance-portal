@@ -1,4 +1,4 @@
-# Project 4: Maintenance Service Portal
+# Maintenance Service Portal
 
 **ServiceNow Portfolio Project** | *User-Experience*
 
@@ -225,9 +225,9 @@ A mobile-first Service Portal designed for property maintenance staff to view wo
 
 ## Author
 
-Lauren Anderson  
+Laurenda Landry  
 ServiceNow Developer Portfolio  
-[LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com)
+[LinkedIn](https://linkedin.com/in/lauland) | [Portfolio](https://lauland.dev)
 
 ## License
 
