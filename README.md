@@ -1,7 +1,5 @@
 # Maintenance Service Portal
 
-**ServiceNow Portfolio Project** | *User-Experience*
-
 ## Overview
 
 A mobile-first Service Portal designed for property maintenance staff to view work assignments, critical alerts, and performance metrics on any device. This project demonstrates UX/UI design, responsive layout, widget configuration, and user-centered design thinking.
@@ -89,7 +87,7 @@ A mobile-first Service Portal designed for property maintenance staff to view wo
 - Field worker workflow optimization
 - Self-service enablement
 - Real-time operational visibility
-- Cross-project integration (connects to Projects 1 & 3)
+- Cross-system integration (connects to Asset Management and Alert Automation systems)
 
 ## Business Impact
 
@@ -166,20 +164,11 @@ A mobile-first Service Portal designed for property maintenance staff to view wo
 
 **Dependencies:**
 - Service Portal plugin
-- Project 3: Maintenance Alert table
-
-## Portfolio Talking Points
-
-**Elevator Pitch:**
-> "I built a mobile-first Service Portal for property maintenance staff that reduced response time from 45 minutes to 10 minutes. The dashboard shows three key metrics at a glance - critical alerts, open work orders, and completed tasks - using color-coded cards with icons. Instead of generic IT tickets, it displays real property maintenance scenarios like HVAC failures and fire alarms. The responsive design works perfectly on phones, so field technicians can view assignments and update status without returning to the office."
-
-**UX Design Highlight:**
-> "The key design challenge was creating an interface for field workers who are often wearing gloves, standing in the sun, and dealing with emergencies. I used large touch targets (minimum 44px), high-contrast colors, and a visual hierarchy that puts the most critical information at the top. The metric cards use color psychology - red for critical issues demands immediate attention, yellow shows active work, and green provides positive reinforcement for completed tasks. This reduces cognitive load when technicians are stressed or distracted."
-
-**Business Value:**
-> "The property manager said this was like 'going from a flip phone to a smartphone' for their maintenance team. Techs used to write notes on paper, come back to the office at 2 PM, and spend an hour updating the system. Now they update status from their phones in real-time. Response time for critical HVAC alerts dropped from 45 minutes to 10 minutes because the alert appears on their phone immediately instead of waiting for the daily email summary. That faster response prevented a major compressor failure that would have cost $12K to replace."
+- Maintenance Alert table (from Alert Automation system)
 
 ## Comparison: Before vs. After
+
+
 
 **Before (Generic Portal):**
 - Desktop-only layout
@@ -229,12 +218,6 @@ Laurenda Landry
 ServiceNow Developer Portfolio  
 [LinkedIn](https://linkedin.com/in/lauland) | [Portfolio](https://lauland.dev)
 
-## License
-
-Educational/Portfolio Project - Not for commercial use
-
 ---
 
-**Project Status:** ✅ Complete  
-**Build Time:** 5 hours  
-**Completion Date:** December 13, 2024
+*Built with ServiceNow Platform (Zurich Release)*
